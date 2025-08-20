@@ -49,7 +49,7 @@ The top 5 neighborhoods by quality score are:
 ![Neighborhood_Image](images/Neighborhood_Scores_Image.png)
 
 ## Recommendations
-The Chicago Community Insights Dashboard empowers residents, policymakers, and community leaders with clear, data-driven insights into the safety, education, and housing conditions of Chicago neighborhoods. By consolidating housing, crime, and education datasets into a single relational database, we’ve created a Community Score—a standardized measure of neighborhood quality across ZIP codes. This score highlights both strengths and areas for improvement, offering value in several ways:
+The Chicago Community Insights Dashboard empowers residents, policymakers, and community leaders with clear insights into the safety, education, and housing conditions of Chicago neighborhoods. By consolidating housing, crime, and education datasets into a single relational database, we’ve created a Community Score to represent a standardized measure of neighborhood quality across ZIP codes. This score showcases both strengths and areas for improvement, offering value in several ways:
 
 - For residents and families: Helps identify neighborhoods that align with their priorities—whether safety, schools, or housing stability.
 
