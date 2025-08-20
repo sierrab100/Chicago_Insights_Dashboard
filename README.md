@@ -7,7 +7,7 @@ The Chicago Community Insights Dashboard attempts to resolve this issue by creat
 
 ## Data Sources
 - [Chicago Public Schools Dataset](https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Progress-Reports-SY2/2dn2-x66j/about_data)
-- [Real Estate Data](link_here)
-- [Chicago Crime Data](link_here)
-- [Population & Income Data](link_here)
+- [Real Estate Data](https://www.housingstudies.org/data-portal/browse/?indicator=sales-100-residential-parcel&area=chicago-community-areas&property_type=0&view_as=view-table#)
+- [Chicago Crime Data](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data)
+- [Population & Income Data](https://www.housingstudies.org/data-portal/browse/?indicator=population-and-age&area=cook-county-municipalities&view_as=view-table)
 
