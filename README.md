@@ -31,7 +31,7 @@ Violent crime receives the greatest negative weight (-0.35) due to its substanti
 In regards to the non-violent crimes, property crimes (-0.12) are ranked as most important, drug-related crimes (-0.1) are second most important, and other non-violent crimes (-0.03) are least important. These crimes are ranked lower than violent crimes because they are not putting people in physical danger and they have less psychological impacts on residents. In regards to non-violent crimes, property crimes are ranked highest because it impacts resident’s sense of safety and financial security. Drug crimes are second because drug crimes are associated with mental illness, poverty, and can become the precursor to more impactful crimes [25]. Overall, the weights prioritize safety, education, income stability, and housing integrity as fundamental components of neighborhood quality.
 
 ## Results
-- The top 5 neighborhoods by quality score are:
+The top 5 neighborhoods by quality score are:
   1. Lincoln Square (60625)
   2. Logan Square (60647)
   3. West Ridge (60659)
@@ -51,9 +51,9 @@ In regards to the non-violent crimes, property crimes (-0.12) are ranked as most
 ## Recommendations
 The Chicago Community Insights Dashboard empowers residents, policymakers, and community leaders with clear, data-driven insights into the safety, education, and housing conditions of Chicago neighborhoods. By consolidating housing, crime, and education datasets into a single relational database, we’ve created a Community Score—a standardized measure of neighborhood quality across ZIP codes. This score highlights both strengths and areas for improvement, offering value in several ways:
 
-For residents and families: Helps identify neighborhoods that align with their priorities—whether safety, schools, or housing stability.
+- For residents and families: Helps identify neighborhoods that align with their priorities—whether safety, schools, or housing stability.
 
-For policymakers and city officials: Provides an evidence-based tool to target resources where they are most needed and measure progress over time.
+- For policymakers and city officials: Provides an evidence-based tool to target resources where they are most needed and measure progress over time.
 
-For businesses and developers: Identifies promising areas for investment, driven by insights into long-term stability and community health.
+- For businesses and developers: Identifies promising areas for investment, driven by insights into long-term stability and community health.
 
