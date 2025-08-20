@@ -1,2 +1,2 @@
-# Chicago_Neighborhood_Python/Tableau
+# Chicago Neighborhood Insights - Python/Tableau
 Chicago data
