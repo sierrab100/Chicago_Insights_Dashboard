@@ -48,5 +48,12 @@ In regards to the non-violent crimes, property crimes (-0.12) are ranked as most
 
 ![Neighborhood_Image](images/Neighborhood_Scores_Image.png)
 
+## Recommendations
+The Chicago Community Insights Dashboard empowers residents, policymakers, and community leaders with clear, data-driven insights into the safety, education, and housing conditions of Chicago neighborhoods. By consolidating housing, crime, and education datasets into a single relational database, we’ve created a Community Score—a standardized measure of neighborhood quality across ZIP codes. This score highlights both strengths and areas for improvement, offering value in several ways:
 
+For residents and families: Helps identify neighborhoods that align with their priorities—whether safety, schools, or housing stability.
+
+For policymakers and city officials: Provides an evidence-based tool to target resources where they are most needed and measure progress over time.
+
+For businesses and developers: Identifies promising areas for investment, driven by insights into long-term stability and community health.
 
