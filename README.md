@@ -1,2 +1,2 @@
-# Chicago_Neighborhood_Python-Tableau_Project
+# Chicago_Neighborhood_Python/Tableau
 Chicago data
