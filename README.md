@@ -30,6 +30,14 @@ Violent crime receives the greatest negative weight (-0.35) due to its substanti
 
 In regards to the non-violent crimes, property crimes (-0.12) are ranked as most important, drug-related crimes (-0.1) are second most important, and other non-violent crimes (-0.03) are least important. These crimes are ranked lower than violent crimes because they are not putting people in physical danger and they have less psychological impacts on residents. In regards to non-violent crimes, property crimes are ranked highest because it impacts resident’s sense of safety and financial security. Drug crimes are second because drug crimes are associated with mental illness, poverty, and can become the precursor to more impactful crimes [25]. Overall, the weights prioritize safety, education, income stability, and housing integrity as fundamental components of neighborhood quality.
 
+## Results
+- The top 5 neighborhoods by quality score are:
+  1. Lincoln Square (60625)
+  2. Logan Square (60647)
+  3. West Ridge (60659)
+  4. Irving Park (60618)
+  5. Depaul (60614)
+
 ## Visualizations
 
 ![Crime_Image](images/Crime_Image.png)
